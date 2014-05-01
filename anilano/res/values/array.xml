@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="favorite">
+     	 <item>@drawable/mon00</item>
+        <item>@drawable/thu00</item>
+        <item>@drawable/wed00</item>
+        <item>@drawable/thu00</item>
+        <item>@drawable/fri00</item>
+        <item>@drawable/sat00</item>
+        <item>@drawable/sun00</item> 
+    </string-array>
+    
+    <string-array name="anime_img">
+        <item>@drawable/mon00</item>
+        <item>@drawable/thu00</item>
+        <item>@drawable/wed00</item>
+        <item>@drawable/thu00</item>
+        <item>@drawable/fri00</item>
+        <item>@drawable/sat00</item>
+        <item>@drawable/sun00</item>  
+    </string-array>
+    
+    <string-array name="anime_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    
+    
+</resources>
